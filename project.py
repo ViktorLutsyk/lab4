@@ -1,1 +1,1 @@
-print('maksym kyryk plays with dogs')
+print('maksym kyryk plays with dogs and kids')
