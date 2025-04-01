@@ -1,1 +1,1 @@
-print('orest is not loch')
+print('orest is not lochness monster')
