@@ -1,1 +1,1 @@
-print('orest is not lochness monster')
+print('maksym kyryk plays with dogs')
